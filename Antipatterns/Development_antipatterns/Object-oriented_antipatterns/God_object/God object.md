@@ -1,0 +1,1 @@
+### God object pattern
